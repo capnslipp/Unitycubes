@@ -1,3 +1,6 @@
+[submodule "Library/capnslipp-UUnit-0.3.1"]
+	path = Library/capnslipp-UUnit-0.3.1
+	url = git@github.com:capnslipp/UUnit.git
 [submodule "Library/HideInNormalInspector-1.0.0"]
 	path = Library/HideInNormalInspector-1.0.0
 	url = https://gist.github.com/8138106.git
